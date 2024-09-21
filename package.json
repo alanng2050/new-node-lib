@@ -1,0 +1,17 @@
+{
+  "name": "@tinychange/new-node-lib",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./install.sh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanng2050/new-node-lib"
+  }
+}
